@@ -1,4 +1,4 @@
-## Hi there, I'm Rudi Carl! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi there, I'm Ivan Marchenko! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
 
 <p>
   <em>
@@ -9,10 +9,10 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Software Engineer
+- 👨🏽‍💻 I’m a Web Developer.
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via jhukovdanylo126@gmail.com
+- 📫 Please email via lptop009@gmail.com
 <br/> 
 </em>
 
