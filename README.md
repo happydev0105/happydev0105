@@ -31,16 +31,15 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
-<code><img height="40" src="https://res.cloudinary.com/practicaldev/image/fetch/s--ipV6F4tM--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://raw.githubusercontent.com/serverless/assets/master/Icon/Framework/PNG/Serverless_Framework-icon01.png" title="serverless"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" title="spring-boot"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" title="python"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Figma/Figma.svg" title="python"></code>
  
 ### Top Languages
 
