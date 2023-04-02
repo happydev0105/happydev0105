@@ -12,7 +12,6 @@
 - 👨🏽‍💻 I’m a Web Developer.
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via lptop009@gmail.com
 <br/> 
 </em>
 
