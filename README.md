@@ -42,6 +42,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="vuejs"></code>
 <code><img height="35" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
- 
-### Top Languages
-
