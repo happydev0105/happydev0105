@@ -10,7 +10,7 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m a Web Developer.
+- 👨🏽‍💻 I am a web developer and trying to improve myself to become a Web3 developer.
 - 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
 - 💬 Ask me about anything, I am happy to help;
 <br/> 
