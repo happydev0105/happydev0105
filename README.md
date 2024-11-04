@@ -11,7 +11,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m a dedicated Web & Bot Developer on a journey to becoming a skilled Web3 Developer, constantly pushing my boundaries to explore decentralized technologies.
-- 🤔 My interests span across Web App Development 🖥️, Web Scraping 🔍, and Data Science 📊, where I enjoy uncovering insights from data. I’m also a huge fan of Cricket 🏏, captivated by the thrill of the game, and Space Exploration 🚀, constantly amazed by the mysteries of the cosmos. Beyond these, I’m always eager to dive into new areas that spark my curiosity! ✨.
+- 🤔 I’m passionate about Web App Development 🖥️, Web Scraping 🔍, Data Science 📊, Cricket 🏏, and Space Exploration 🚀, always eager to uncover insights and explore new curiosities! ✨.
 - 💬 Feel free to ask me anything—I'm always happy to help and share what I’ve learned!
 <br/> 
 </em>
