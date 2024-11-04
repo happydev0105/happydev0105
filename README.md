@@ -10,9 +10,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am a web developer and trying to improve myself to become a Web3 developer.
-- 🤔 My interests are with Web App Development 🖥️, Data Science 📊, Cricket 🏏, Space 🚀, etc..;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏽‍💻 I’m a dedicated Web & Bot Developer on a journey to becoming a skilled Web3 Developer, constantly pushing my boundaries to explore decentralized technologies.
+- 🤔 My interests span across Web App Development 🖥️, Web Scraping 🔍, and Data Science 📊, where I enjoy uncovering insights from data. I’m also a huge fan of Cricket 🏏, captivated by the thrill of the game, and Space Exploration 🚀, constantly amazed by the mysteries of the cosmos. Beyond these, I’m always eager to dive into new areas that spark my curiosity! ✨.
+- 💬 Feel free to ask me anything—I'm always happy to help and share what I’ve learned!
 <br/> 
 </em>
 
