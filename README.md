@@ -7,7 +7,7 @@
  </p>
 <em>
 
-<img align="right" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="500"/>
+<img align="right" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="400"/>
   
 **Talking about Personal Stuffs:**
 
@@ -23,22 +23,25 @@
 
 
 
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="typescript"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="html5"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" title="php"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jquery"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" title="laravel"></code>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss">
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" title="django"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="vuejs"></code>
-<code><img height="35" src="https://banner2.cleanpng.com/20180427/zce/kisspng-figma-user-interface-design-designer-logo-apps-design-5ae2b107507599.2852510515248058953296.jpg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" title="angular"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="nextjs"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="mongodb"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="node.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="express.js"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-original.svg" title="laravel"></code>
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" title="go">
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
+
+
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" title="Web3.js">
