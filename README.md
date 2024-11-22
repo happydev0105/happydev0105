@@ -40,6 +40,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="git"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="amazonwebservices"><code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="solidity"></code>
-<code><img height="40" src="https://github.com/NaturalSelectionLabs/web3-logos/blob/main/ethereum.png" title="ethereum"></code>
-<code><img height="40" src="https://github.com/NaturalSelectionLabs/web3-logos/blob/main/solana.png" title="solana"></code>
-<code><img height="40" src="https://github.com/NaturalSelectionLabs/web3-logos/blob/main/metamask.png" title="metamask"></code>
