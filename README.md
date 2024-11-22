@@ -1,4 +1,6 @@
-## Hi there <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35>
+## Hi 👋, I'm Yasuhiro
+
+I'm a Software Engineer with a Computer Science background, experienced in Blockchain and Web3, with a strong interest in distributed systems.
 
 <p>
   <em>
@@ -7,6 +9,7 @@
  </p>
 <em>
 
+<img align="right" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="500"/>
   
 **Talking about Personal Stuffs:**
 
@@ -22,7 +25,6 @@
 
 
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" title="flutter"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="python"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="javascript"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="typescript"></code>
