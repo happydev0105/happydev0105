@@ -15,7 +15,7 @@
 <br/> 
 </em>
 
-<img align="right" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="450"/>
+<img align="right" src="https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif" width="420"/>
 
 ### Worked with 
 
